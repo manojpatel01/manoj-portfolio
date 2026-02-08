@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio - Dhiraj Jat  
+# 🌐 Personal Portfolio - Manoj patel 
 
 This is my **personal portfolio website** built using **HTML, CSS, and JavaScript** with modern 3D effects, smooth scrolling, and stylish typography.  
 It showcases my skills, projects, and experience as a **Full Stack Developer**.  
@@ -26,17 +26,13 @@ It showcases my skills, projects, and experience as a **Full Stack Developer**.
 ## 📸 Preview  
 
 ### 🖼️ Home Page  
-![Portfolio Preview 1](./assets/images/my.png)
+![Portfolio Preview 1](./assets/images/portf1.png)
 
 ### 🖼️ Project Section  
-![Portfolio Preview 1](./assets/images/my2.png)
+![Portfolio Preview 1](./assets/images/portf2.png)
 
 *(Replace `your-image1.png` and `your-image2.png` with your actual image filenames in the repo.)*  
 
 ---
 
-## 🚀 Getting Started  
 
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/portfolio.git
